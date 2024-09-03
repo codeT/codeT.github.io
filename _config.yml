@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: damon.yu.yao@gmail.com
 description: "姚工的技术文章和记忆备份"
 keyword: "cka, cks, backup, 姚工, linux,架构师，系统分析师，pmp，项目管理, 信息安全，网络"
-url: "https://codeT.github.io"          # your host, for absolute URL
+url: "https://codeT.github.io/blog"          # your host, for absolute URL
 baseurl: "/"      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/codeT/codeT.github.io.git" # you code repository
+github_repo: "https://github.com/codeT/blog.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
